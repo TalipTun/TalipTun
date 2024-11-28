@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/TalipTun/TalipTun/blob/main/GithubYaqub3.gif" alt="Hello, I am Yaqub Rahman">
+  <img src="https://github.com/TalipTun/TalipTun/blob/main/"Hello 👋 I am Talip! I am a CS 💻 undergraduate!.gif" alt="Hello, I am Talip">
 </div>
 
 
