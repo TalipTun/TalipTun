@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">
+  <strong>Talip Tun:</strong>
+</h1>
 
-<!--
-**TalipTun/TalipTun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💻 I'm an undergraduate CS student
+📜 I have experience in
+<div align="center" style="padding: 4px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalipTun&layout=compact&theme=dark" alt="Top Langs" style="margin-right: 20px;">
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=TalipTun&theme=darkhub&no-bg=true&column=3&row=2&exclude=Stars,Issues,PullRequest" alt="Trophy" style="margin-left: 20px;">
+  </a>
+</div>
