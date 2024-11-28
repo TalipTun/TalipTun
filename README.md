@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://github.com/TalipTun/TalipTun/blob/main/TalipGIF.gif" alt="Hello, I am Talip">
 </div>
+
 #
 
 - 💻 I'm an undergraduate CS student
