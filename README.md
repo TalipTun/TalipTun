@@ -5,8 +5,8 @@
 
 
 
-💻 I'm an undergraduate CS student
-📜 I have experience in Java, Python...
+ - 💻 I'm an undergraduate CS student
+ - 📜 I have experience in Java, Python...
 
 #
 <div align="center" style="padding: 4px;">
