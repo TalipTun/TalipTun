@@ -6,7 +6,9 @@
 
 
 💻 I'm an undergraduate CS student
-📜 I have experience in
+📜 I have experience in Java, Python...
+
+#
 <div align="center" style="padding: 4px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalipTun&layout=compact&theme=dark" alt="Top Langs" style="margin-right: 20px;">
