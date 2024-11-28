@@ -2,6 +2,9 @@
   <strong>Talip Tun:</strong>
 </h1>
 
+<div align="center">
+  <img src="https://github.com/TalipTun/TalipTun/blob/main/GithubYaqub3.gif" alt="Hello, I am Yaqub Rahman">
+</div>
 
 
 
