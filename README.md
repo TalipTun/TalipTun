@@ -3,8 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/TalipTun/TalipTun/blob/main/readmegif
-" alt="Hello, I am Talip">
+  <img src="https://github.com/TalipTun/TalipTun/blob/main/readmegif" alt="Hello, I am Talip">
 </div>
 
 #
