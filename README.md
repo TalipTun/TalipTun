@@ -8,8 +8,10 @@
 
 #
 
-- 💻 I'm an undergraduate CS student
-- 📜 I have experience in Java, Python...
+- 💻 I'm a first year undergraduate CS student.
+- 📜 I have experience in Java, Kotlin, Javascript, Typescript, HTML, CSS, TailwindCSS, SQL, React
+- ⚒️ Currently developing a full stack app, a kotlin app, Ecommerce website.
+- 💡 Always willing to learn new stuff.
   
 #
 <div align="center" style="padding: 4px;">
