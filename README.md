@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/TalipTun/TalipTun/blob/main/TalipGIF.gif" alt="Hello, I am Talip">
+  <img src="https://github.com/TalipTun/TalipTun/blob/main/Paragraf metniniz.gif" alt="Hello, I am Talip">
 </div>
 
 #
